@@ -1,0 +1,38 @@
+!.gitignore
+
+.git
+
+*.class
+ 
+# Package Files #
+*.jar
+*.war
+*.ear
+ 
+# ignore Maven generated target folders
+target
+out
+build
+
+# .gitignore for intellij
+.idea
+*.iml
+*.ipr
+*.iws
+
+# ignore eclipse files
+.project
+.classpath
+.settings
+.metadata
+*.launch
+ivy*
+
+# .gitignore for windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+rebel.xml
+.rebel.xml.bak
+.rebel-remote.xml.bak

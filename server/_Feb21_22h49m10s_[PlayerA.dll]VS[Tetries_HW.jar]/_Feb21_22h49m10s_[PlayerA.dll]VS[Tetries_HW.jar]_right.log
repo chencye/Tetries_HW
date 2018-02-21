@@ -1,0 +1,401 @@
+[   0][Serv] pszJavaClassPath=-Djava.class.path=./JavaPlayer.jar;./Tetries_HW.jar
+[   0][Serv] Begin to load jvm.dll (C:/Program Files (x86)/Java/jdk1.7.0_80/jre/bin/server/jvm.dll)
+[   0][Serv] Begin to get JNI_CreateJavaVM
+[   0][Serv] Create jvm ok, iRet=0, vm_args=
+[   0][Serv] rand seed = [GetTick] 1497806404
+
+[   1][Serv] Round 1 begin, CurrBlock=1(I), NextBlock=2(T)
+[   1][Serv] QueryPerformanceFrequency: TRUE
+[   1][Serv] QueryPerformanceFrequency: 3215253 per second 
+[   1][Rigt] call right begin
+[   1][Rigt] call right end
+[   1][Serv] [this round  time] left=122.852(us), right=631.055(us)
+[   1][Serv] [the average time] left=122.852(us), right=631.055(us)
+[   1][Serv] begin solveExt
+[   1][Serv] end solveExt, bOK = 1 (0false,1true)
+[   1][Serv] Block=1 Rotate=1 at Col=1 would down to row=19
+[   1][Serv] begin solveExt
+[   1][Serv] end solveExt, bOK = 1 (0false,1true)
+[   1][Serv] Block=1 Rotate=0 at Col=0 would down to row=16
+[   1][Serv] uiScoreL=0, uiScoreR=0
+[   1][Serv] after round:
+[   1][Serv] ------------          ------------
+[   1][Serv] |          |  ROUND   |          |
+[   1][Serv] |          |     1    |          |
+[   1][Serv] |          |          |          |
+[   1][Serv] |          |          |          |
+[   1][Serv] |          |          |          |
+[   1][Serv] |          |          |          |
+[   1][Serv] |          |          |          |
+[   1][Serv] |          |          |          |
+[   1][Serv] |          |          |          |
+[   1][Serv] |          |          |          |
+[   1][Serv] |          |          |          |
+[   1][Serv] |          |          |          |
+[   1][Serv] |          |          |          |
+[   1][Serv] |          |          |          |
+[   1][Serv] |          |          |          |
+[   1][Serv] |          |          |          |
+[   1][Serv] |          |          |+         |
+[   1][Serv] |          |          |+         |
+[   1][Serv] |          |          |+         |
+[   1][Serv] | ++++     |          |+         |
+[   1][Serv] ------------          ------------
+
+[   2][Serv] Round 2 begin, CurrBlock=2(T), NextBlock=3(L)
+[   2][Serv] QueryPerformanceFrequency: TRUE
+[   2][Serv] QueryPerformanceFrequency: 3215253 per second 
+[   2][Rigt] call right begin
+[   2][Rigt] call right end
+[   2][Serv] [this round  time] left=137.47(us), right=59.7154(us)
+[   2][Serv] [the average time] left=130.161(us), right=345.385(us)
+[   2][Serv] begin solveExt
+[   2][Serv] end solveExt, bOK = 1 (0false,1true)
+[   2][Serv] Block=2 Rotate=2 at Col=5 would down to row=18
+[   2][Serv] begin solveExt
+[   2][Serv] end solveExt, bOK = 1 (0false,1true)
+[   2][Serv] Block=2 Rotate=0 at Col=0 would down to row=15
+[   2][Serv] uiScoreL=0, uiScoreR=0
+[   2][Serv] after round:
+[   2][Serv] ------------          ------------
+[   2][Serv] |          |  ROUND   |          |
+[   2][Serv] |          |     2    |          |
+[   2][Serv] |          |          |          |
+[   2][Serv] |          |          |          |
+[   2][Serv] |          |          |          |
+[   2][Serv] |          |          |          |
+[   2][Serv] |          |          |          |
+[   2][Serv] |          |          |          |
+[   2][Serv] |          |          |          |
+[   2][Serv] |          |          |          |
+[   2][Serv] |          |          |          |
+[   2][Serv] |          |          |          |
+[   2][Serv] |          |          |          |
+[   2][Serv] |          |          |          |
+[   2][Serv] |          |          |          |
+[   2][Serv] |          |          |+++       |
+[   2][Serv] |          |          |*+        |
+[   2][Serv] |          |          |*         |
+[   2][Serv] |      +   |          |*         |
+[   2][Serv] | ****+++  |          |*         |
+[   2][Serv] ------------          ------------
+
+[   3][Serv] Round 3 begin, CurrBlock=3(L), NextBlock=4(J)
+[   3][Serv] QueryPerformanceFrequency: TRUE
+[   3][Serv] QueryPerformanceFrequency: 3215253 per second 
+[   3][Rigt] call right begin
+[   3][Rigt] call right end
+[   3][Serv] [this round  time] left=136.848(us), right=56.9162(us)
+[   3][Serv] [the average time] left=132.39(us), right=249.229(us)
+[   3][Serv] begin solveExt
+[   3][Serv] end solveExt, bOK = 1 (0false,1true)
+[   3][Serv] Block=3 Rotate=0 at Col=1 would down to row=16
+[   3][Serv] begin solveExt
+[   3][Serv] end solveExt, bOK = 1 (0false,1true)
+[   3][Serv] Block=3 Rotate=0 at Col=0 would down to row=12
+[   3][Serv] uiScoreL=0, uiScoreR=0
+[   3][Serv] after round:
+[   3][Serv] ------------          ------------
+[   3][Serv] |          |  ROUND   |          |
+[   3][Serv] |          |     3    |          |
+[   3][Serv] |          |          |          |
+[   3][Serv] |          |          |          |
+[   3][Serv] |          |          |          |
+[   3][Serv] |          |          |          |
+[   3][Serv] |          |          |          |
+[   3][Serv] |          |          |          |
+[   3][Serv] |          |          |          |
+[   3][Serv] |          |          |          |
+[   3][Serv] |          |          |          |
+[   3][Serv] |          |          |          |
+[   3][Serv] |          |          |+         |
+[   3][Serv] |          |          |+         |
+[   3][Serv] |          |          |++        |
+[   3][Serv] |          |          |***       |
+[   3][Serv] | +        |          |**        |
+[   3][Serv] | +        |          |*         |
+[   3][Serv] | ++   *   |          |*         |
+[   3][Serv] | *******  |          |*         |
+[   3][Serv] ------------          ------------
+
+[   4][Serv] Round 4 begin, CurrBlock=4(J), NextBlock=5(S)
+[   4][Serv] QueryPerformanceFrequency: TRUE
+[   4][Serv] QueryPerformanceFrequency: 3215253 per second 
+[   4][Rigt] call right begin
+[   4][Rigt] call right end
+[   4][Serv] [this round  time] left=132.182(us), right=55.0501(us)
+[   4][Serv] [the average time] left=132.338(us), right=200.684(us)
+[   4][Serv] begin solveExt
+[   4][Serv] end solveExt, bOK = 1 (0false,1true)
+[   4][Serv] Block=4 Rotate=0 at Col=8 would down to row=17
+[   4][Serv] begin solveExt
+[   4][Serv] end solveExt, bOK = 1 (0false,1true)
+[   4][Serv] Block=4 Rotate=0 at Col=0 would down to row=9
+[   4][Serv] uiScoreL=0, uiScoreR=0
+[   4][Serv] after round:
+[   4][Serv] ------------          ------------
+[   4][Serv] |          |  ROUND   |          |
+[   4][Serv] |          |     4    |          |
+[   4][Serv] |          |          |          |
+[   4][Serv] |          |          |          |
+[   4][Serv] |          |          |          |
+[   4][Serv] |          |          |          |
+[   4][Serv] |          |          |          |
+[   4][Serv] |          |          |          |
+[   4][Serv] |          |          |          |
+[   4][Serv] |          |          | +        |
+[   4][Serv] |          |          | +        |
+[   4][Serv] |          |          |++        |
+[   4][Serv] |          |          |*         |
+[   4][Serv] |          |          |*         |
+[   4][Serv] |          |          |**        |
+[   4][Serv] |          |          |***       |
+[   4][Serv] | *        |          |**        |
+[   4][Serv] | *       +|          |*         |
+[   4][Serv] | **   *  +|          |*         |
+[   4][Serv] | *******++|          |*         |
+[   4][Serv] ------------          ------------
+
+[   5][Serv] Round 5 begin, CurrBlock=5(S), NextBlock=6(Z)
+[   5][Serv] QueryPerformanceFrequency: TRUE
+[   5][Serv] QueryPerformanceFrequency: 3215253 per second 
+[   5][Rigt] call right begin
+[   5][Rigt] call right end
+[   5][Serv] [this round  time] left=99.2146(us), right=51.3179(us)
+[   5][Serv] [the average time] left=125.713(us), right=170.811(us)
+[   5][Serv] begin solveExt
+[   5][Serv] end solveExt, bOK = 1 (0false,1true)
+[   5][Serv] Block=5 Rotate=0 at Col=2 would down to row=17
+[   5][Serv] begin solveExt
+[   5][Serv] end solveExt, bOK = 1 (0false,1true)
+[   5][Serv] Block=5 Rotate=0 at Col=0 would down to row=7
+[   5][Serv] uiScoreL=0, uiScoreR=0
+[   5][Serv] after round:
+[   5][Serv] ------------          ------------
+[   5][Serv] |          |  ROUND   |          |
+[   5][Serv] |          |     5    |          |
+[   5][Serv] |          |          |          |
+[   5][Serv] |          |          |          |
+[   5][Serv] |          |          |          |
+[   5][Serv] |          |          |          |
+[   5][Serv] |          |          |          |
+[   5][Serv] |          |          |++        |
+[   5][Serv] |          |          | ++       |
+[   5][Serv] |          |          | *        |
+[   5][Serv] |          |          | *        |
+[   5][Serv] |          |          |**        |
+[   5][Serv] |          |          |*         |
+[   5][Serv] |          |          |*         |
+[   5][Serv] |          |          |**        |
+[   5][Serv] |          |          |***       |
+[   5][Serv] | *        |          |**        |
+[   5][Serv] | *++     *|          |*         |
+[   5][Serv] | **++ *  *|          |*         |
+[   5][Serv] | *********|          |*         |
+[   5][Serv] ------------          ------------
+
+[   6][Serv] Round 6 begin, CurrBlock=6(Z), NextBlock=0(O)
+[   6][Serv] QueryPerformanceFrequency: TRUE
+[   6][Serv] QueryPerformanceFrequency: 3215253 per second 
+[   6][Rigt] call right begin
+[   6][Rigt] call right end
+[   6][Serv] [this round  time] left=90.8171(us), right=55.0501(us)
+[   6][Serv] [the average time] left=119.897(us), right=151.517(us)
+[   6][Serv] begin solveExt
+[   6][Serv] end solveExt, bOK = 1 (0false,1true)
+[   6][Serv] Block=6 Rotate=1 at Col=4 would down to row=16
+[   6][Serv] begin solveExt
+[   6][Serv] end solveExt, bOK = 1 (0false,1true)
+[   6][Serv] Block=6 Rotate=0 at Col=0 would down to row=5
+[   6][Serv] uiScoreL=0, uiScoreR=0
+[   6][Serv] after round:
+[   6][Serv] ------------          ------------
+[   6][Serv] |          |  ROUND   |          |
+[   6][Serv] |          |     6    |          |
+[   6][Serv] |          |          |          |
+[   6][Serv] |          |          |          |
+[   6][Serv] |          |          |          |
+[   6][Serv] |          |          | ++       |
+[   6][Serv] |          |          |++        |
+[   6][Serv] |          |          |**        |
+[   6][Serv] |          |          | **       |
+[   6][Serv] |          |          | *        |
+[   6][Serv] |          |          | *        |
+[   6][Serv] |          |          |**        |
+[   6][Serv] |          |          |*         |
+[   6][Serv] |          |          |*         |
+[   6][Serv] |          |          |**        |
+[   6][Serv] |          |          |***       |
+[   6][Serv] | *  +     |          |**        |
+[   6][Serv] | ***++   *|          |*         |
+[   6][Serv] | ****+*  *|          |*         |
+[   6][Serv] | *********|          |*         |
+[   6][Serv] ------------          ------------
+
+[   7][Serv] Round 7 begin, CurrBlock=0(O), NextBlock=1(I)
+[   7][Serv] QueryPerformanceFrequency: TRUE
+[   7][Serv] QueryPerformanceFrequency: 3215253 per second 
+[   7][Rigt] call right begin
+[   7][Rigt] call right end
+[   7][Serv] [this round  time] left=90.1951(us), right=50.0738(us)
+[   7][Serv] [the average time] left=115.654(us), right=137.025(us)
+[   7][Serv] begin solveExt
+[   7][Serv] end solveExt, bOK = 1 (0false,1true)
+[   7][Serv] Block=0 Rotate=0 at Col=7 would down to row=17
+[   7][Serv] begin solveExt
+[   7][Serv] end solveExt, bOK = 1 (0false,1true)
+[   7][Serv] Block=0 Rotate=0 at Col=0 would down to row=3
+[   7][Serv] uiScoreL=0, uiScoreR=0
+[   7][Serv] after round:
+[   7][Serv] ------------          ------------
+[   7][Serv] |          |  ROUND   |          |
+[   7][Serv] |          |     7    |          |
+[   7][Serv] |          |          |          |
+[   7][Serv] |          |          |++        |
+[   7][Serv] |          |          |++        |
+[   7][Serv] |          |          | **       |
+[   7][Serv] |          |          |**        |
+[   7][Serv] |          |          |**        |
+[   7][Serv] |          |          | **       |
+[   7][Serv] |          |          | *        |
+[   7][Serv] |          |          | *        |
+[   7][Serv] |          |          |**        |
+[   7][Serv] |          |          |*         |
+[   7][Serv] |          |          |*         |
+[   7][Serv] |          |          |**        |
+[   7][Serv] |          |          |***       |
+[   7][Serv] | *  *     |          |**        |
+[   7][Serv] | ***** ++*|          |*         |
+[   7][Serv] | ******++*|          |*         |
+[   7][Serv] | *********|          |*         |
+[   7][Serv] ------------          ------------
+
+[   8][Serv] Round 8 begin, CurrBlock=1(I), NextBlock=2(T)
+[   8][Serv] QueryPerformanceFrequency: TRUE
+[   8][Serv] QueryPerformanceFrequency: 3215253 per second 
+[   8][Rigt] call right begin
+[   8][Rigt] call right end
+[   8][Serv] [this round  time] left=120.053(us), right=56.2942(us)
+[   8][Serv] [the average time] left=116.204(us), right=126.934(us)
+[   8][Serv] begin solveExt
+[   8][Serv] end solveExt, bOK = 1 (0false,1true)
+[   8][Serv] Block=1 Rotate=0 at Col=0 would down to row=16
+[   8][Serv] begin solveExt
+[   8][Serv] end solveExt, bOK = 1 (0false,1true)
+[   8][Serv] Block=1 Rotate=0 at Col=0 would down to row=-1
+[   8][Serv] uiScoreL=1, uiScoreR=0
+[   8][Serv] begin heighten 1
+[   8][Serv] after round:
+[   8][Serv] ------------          ------------
+[   8][Serv] |          |  ROUND   |          |
+[   8][Serv] |          |     8    |          |
+[   8][Serv] |          |          |**        |
+[   8][Serv] |          |          |**        |
+[   8][Serv] |          |          | **       |
+[   8][Serv] |          |          |**        |
+[   8][Serv] |          |          |**        |
+[   8][Serv] |          |          | **       |
+[   8][Serv] |          |          | *        |
+[   8][Serv] |          |          | *        |
+[   8][Serv] |          |          |**        |
+[   8][Serv] |          |          |*         |
+[   8][Serv] |          |          |*         |
+[   8][Serv] |          |          |**        |
+[   8][Serv] |          |          |***       |
+[   8][Serv] |          |          |**        |
+[   8][Serv] |          |          |*         |
+[   8][Serv] |          |          |*         |
+[   8][Serv] |+*  *     |          |*         |
+[   8][Serv] |+***** ***|          |! !!!!!!!!|
+[   8][Serv] ------------          ------------
+
+[   9][Serv] Round 9 begin, CurrBlock=2(T), NextBlock=3(L)
+[   9][Serv] QueryPerformanceFrequency: TRUE
+[   9][Serv] QueryPerformanceFrequency: 3215253 per second 
+[   9][Rigt] call right begin
+[   9][Rigt] call right end
+[   9][Serv] [this round  time] left=215.846(us), right=55.0501(us)
+[   9][Serv] [the average time] left=127.275(us), right=118.947(us)
+[   9][Serv] begin solveExt
+[   9][Serv] end solveExt, bOK = 1 (0false,1true)
+[   9][Serv] Block=2 Rotate=1 at Col=5 would down to row=17
+[   9][Serv] begin solveExt
+[   9][Serv] end solveExt, bOK = 1 (0false,1true)
+[   9][Serv] Block=2 Rotate=0 at Col=0 would down to row=0
+[   9][Serv] uiScoreL=0, uiScoreR=0
+[   9][Serv] after round:
+[   9][Serv] ------------          ------------
+[   9][Serv] |          |  ROUND   |***       |
+[   9][Serv] |          |     9    | *        |
+[   9][Serv] |          |          |**        |
+[   9][Serv] |          |          |**        |
+[   9][Serv] |          |          | **       |
+[   9][Serv] |          |          |**        |
+[   9][Serv] |          |          |**        |
+[   9][Serv] |          |          | **       |
+[   9][Serv] |          |          | *        |
+[   9][Serv] |          |          | *        |
+[   9][Serv] |          |          |**        |
+[   9][Serv] |          |          |*         |
+[   9][Serv] |          |          |*         |
+[   9][Serv] |          |          |**        |
+[   9][Serv] |          |          |***       |
+[   9][Serv] |          |          |**        |
+[   9][Serv] |          |          |*         |
+[   9][Serv] |          |          |*         |
+[   9][Serv] |      +   |          |*         |
+[   9][Serv] |**  *++   |          |! !!!!!!!!|
+[   9][Serv] ------------          ------------
+
+[  10][Serv] Round 10 begin, CurrBlock=3(L), NextBlock=4(J)
+[  10][Serv] QueryPerformanceFrequency: TRUE
+[  10][Serv] QueryPerformanceFrequency: 3215253 per second 
+[  10][Rigt] call right begin
+[  10][Rigt] call right end
+[  10][Serv] [this round  time] left=139.958(us), right=62.8255(us)
+[  10][Serv] [the average time] left=128.544(us), right=113.335(us)
+[  10][Serv] begin solveExt
+[  10][Serv] end solveExt, bOK = 1 (0false,1true)
+[  10][Serv] Block=3 Rotate=0 at Col=0 would down to row=16
+[  10][Serv] begin solveExt
+[  10][Serv] end solveExt, bOK = 1 (0false,1true)
+[  10][Serv] Block=3 Rotate=0 at Col=0 would down to row=-1
+[  10][Serv] uiScoreL=0, uiScoreR=0
+[  10][Serv] after round:
+[  10][Serv] ------------          ------------
+[  10][Serv] |          |  ROUND   |***       |
+[  10][Serv] |          |    10    | *        |
+[  10][Serv] |          |          |**        |
+[  10][Serv] |          |          |**        |
+[  10][Serv] |          |          | **       |
+[  10][Serv] |          |          |**        |
+[  10][Serv] |          |          |**        |
+[  10][Serv] |          |          | **       |
+[  10][Serv] |          |          | *        |
+[  10][Serv] |          |          | *        |
+[  10][Serv] |          |          |**        |
+[  10][Serv] |          |          |*         |
+[  10][Serv] |          |          |*         |
+[  10][Serv] |          |          |**        |
+[  10][Serv] |          |          |***       |
+[  10][Serv] |          |          |**        |
+[  10][Serv] |+         |          |*         |
+[  10][Serv] |+         |          |*         |
+[  10][Serv] |++    *   |          |*         |
+[  10][Serv] |**  ***   |          |! !!!!!!!!|
+[  10][Serv] ------------          ------------
+[  10][Serv] some one dead
+[  10][Serv] [result][stat][time][PlayerA.dll]: 128.543539
+[  10][Serv] [result][stat][time][Tetries_HW.jar]: 113.334783
+[  10][Serv] [result][stat][attack-times][PlayerA.dll]: 1
+[  10][Serv] [result][stat][attack-times][Tetries_HW.jar]: 0
+[  10][Serv] [result][stat][attack-lines][PlayerA.dll]: 1
+[  10][Serv] [result][stat][attack-lines][Tetries_HW.jar]: 0
+[  10][Serv] [result][stat][attack-linePerTime][PlayerA.dll]: 1.000000
+[  10][Serv] [result][stat][attack-linePerTime][Tetries_HW.jar]: 0.000000
+[  10][Serv] [result][stat][eff][PlayerA.dll]: 33.333333
+[  10][Serv] [result][stat][eff][Tetries_HW.jar]: 0.000000
+[  10][Serv] [result][stat][clear][PlayerA.dll]: 3
+[  10][Serv] [result][stat][clear][Tetries_HW.jar]: 0
+[  10][Serv] [result]  PlayerA.dll win Tetries_HW.jar in 10 rounds, 128.544 us
+[  10][Serv] [result]  Tetries_HW.jar lose PlayerA.dll in 10 rounds, 113.335 us
